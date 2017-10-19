@@ -1,0 +1,150 @@
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\American Sniper.txt
+Punctuation characters: 4780
+1 character words: 955
+2 character words: 4537
+3 character words: 5220
+4 character words: 4496
+5 character words: 3372
+6 character words: 1922
+7+ character words: 3509
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\Dawn of the Dead (1977).txt
+Punctuation characters: 7729
+1 character words: 1491
+2 character words: 7610
+3 character words: 11100
+4 character words: 9039
+5 character words: 5355
+6 character words: 3464
+7+ character words: 6774
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\Gone In 60 Seconds.txt
+Punctuation characters: 4159
+1 character words: 985
+2 character words: 5250
+3 character words: 9024
+4 character words: 5236
+5 character words: 3312
+6 character words: 2059
+7+ character words: 4495
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\Groundhog Day.txt
+Punctuation characters: 4734
+1 character words: 1224
+2 character words: 4285
+3 character words: 5506
+4 character words: 5405
+5 character words: 2720
+6 character words: 1761
+7+ character words: 3218
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\Interstellar.txt
+Punctuation characters: 6444
+1 character words: 1204
+2 character words: 6462
+3 character words: 7796
+4 character words: 6419
+5 character words: 5166
+6 character words: 3706
+7+ character words: 5519
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\Jaws.txt
+Punctuation characters: 5133
+1 character words: 1003
+2 character words: 5018
+3 character words: 6537
+4 character words: 4792
+5 character words: 4520
+6 character words: 2646
+7+ character words: 4377
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\Legally Blonde.txt
+Punctuation characters: 5363
+1 character words: 1363
+2 character words: 4556
+3 character words: 4929
+4 character words: 4077
+5 character words: 2672
+6 character words: 1940
+7+ character words: 3355
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\Life of Pi.txt
+Punctuation characters: 3895
+1 character words: 641
+2 character words: 3996
+3 character words: 4546
+4 character words: 3350
+5 character words: 2241
+6 character words: 1735
+7+ character words: 2964
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\Semi-Pro.txt
+Punctuation characters: 5409
+1 character words: 949
+2 character words: 4138
+3 character words: 5646
+4 character words: 5022
+5 character words: 3221
+6 character words: 2117
+7+ character words: 3054
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\Shawshank Redemption.txt
+Punctuation characters: 6099
+1 character words: 1255
+2 character words: 5431
+3 character words: 7553
+4 character words: 6162
+5 character words: 3524
+6 character words: 2632
+7+ character words: 3845
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\She's Out Of My League.txt
+Punctuation characters: 4726
+1 character words: 1267
+2 character words: 4408
+3 character words: 5457
+4 character words: 5165
+5 character words: 3310
+6 character words: 1813
+7+ character words: 2724
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\Shrek.txt
+Punctuation characters: 3170
+1 character words: 686
+2 character words: 2529
+3 character words: 3188
+4 character words: 2652
+5 character words: 2112
+6 character words: 1213
+7+ character words: 1231
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\The Last Samurai.txt
+Punctuation characters: 5273
+1 character words: 1112
+2 character words: 4873
+3 character words: 6154
+4 character words: 4763
+5 character words: 3512
+6 character words: 3439
+7+ character words: 5510
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\The Revenant.txt
+Punctuation characters: 3892
+1 character words: 660
+2 character words: 3675
+3 character words: 6808
+4 character words: 4537
+5 character words: 4223
+6 character words: 2046
+7+ character words: 3646
+
+C:\Users\Michael's PC\Documents\Data Mining\Project\scripts\Titanic.txt
+Punctuation characters: 7729
+1 character words: 1491
+2 character words: 7610
+3 character words: 11100
+4 character words: 9039
+5 character words: 5355
+6 character words: 3464
+7+ character words: 6774
+
